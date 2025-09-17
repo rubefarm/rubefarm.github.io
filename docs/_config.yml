@@ -21,6 +21,7 @@
 title: RubeFarm
 email: jason@rubefarm.com
 description: ""
+baseurl: "/"
 url: "https://rubefarm.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: ""
